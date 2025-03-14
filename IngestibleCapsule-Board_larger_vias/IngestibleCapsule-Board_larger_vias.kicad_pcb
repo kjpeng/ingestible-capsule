@@ -114,7 +114,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "Gerbers_V2_vias/")
+			(outputdirectory "SPI_Gerbers_vias/")
 		)
 	)
 	(net 0 "")
@@ -4497,7 +4497,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C15"
-			(at -1.58 0.1 -90)
+			(at -1.58 0.1 270)
 			(layer "B.SilkS")
 			(uuid "a1533e0c-9f29-40c3-afe0-8a216798d218")
 			(effects

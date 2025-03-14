@@ -498,7 +498,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Gerbers_V2_vias/",
+      "plot": "SPI_Gerbers_vias/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
