@@ -1405,7 +1405,7 @@
 		(descr "MLX90640ESF-BAA-000-SP")
 		(tags "Integrated Circuit")
 		(property "Reference" "U2"
-			(at 2.92 0 90)
+			(at 2.8425 0 180)
 			(layer "F.SilkS")
 			(uuid "44d06e39-99ed-46f2-98c2-7d4d153f1c27")
 			(effects
