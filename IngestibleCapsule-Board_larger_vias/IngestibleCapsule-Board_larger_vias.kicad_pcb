@@ -2467,7 +2467,7 @@
 		(property ki_fp_filters "CON_513389873")
 		(path "/9f4e31b9-299f-455d-b9d1-eefcca87c3c3")
 		(sheetname "/")
-		(sheetfile "IngestibleCapsule-Board.kicad_sch")
+		(sheetfile "IngestibleCapsule-Board_larger_vias.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 2.549995 1.138928)
@@ -5969,7 +5969,7 @@
 		(path "/6af9e238-b56f-4881-bada-2247a4bc5709/fb649fef-1114-4a5f-ba0b-ab2505173070")
 		(sheetname "/Processor/")
 		(sheetfile "processor.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.153641 -0.38)
 			(end 0.153641 -0.38)
@@ -6169,7 +6169,7 @@
 		(property ki_fp_filters "CONN_AXF5K0412_PAN")
 		(path "/24c86b94-0304-4f96-bdf3-c4648ac890cb")
 		(sheetname "/")
-		(sheetfile "IngestibleCapsule-Board.kicad_sch")
+		(sheetfile "IngestibleCapsule-Board_larger_vias.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center -1.5 -0.5)
@@ -8670,7 +8670,7 @@
 		(property ki_fp_filters "CON_559099872")
 		(path "/34aff6d8-f53c-4f30-bccf-27fc1c0cbb7e")
 		(sheetname "/")
-		(sheetfile "IngestibleCapsule-Board.kicad_sch")
+		(sheetfile "IngestibleCapsule-Board_larger_vias.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.999996 1.564999)
@@ -10155,7 +10155,7 @@
 		(path "/6af9e238-b56f-4881-bada-2247a4bc5709/911055d1-0302-42b9-841a-3a4b14253530")
 		(sheetname "/Processor/")
 		(sheetfile "processor.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.14058 -0.51)
 			(end 0.14058 -0.51)
@@ -11559,7 +11559,7 @@
 		(property ki_fp_filters "CONN_AXF5K0412_PAN")
 		(path "/6ac70e40-ad2f-459e-a69d-eebf5642a6ae")
 		(sheetname "/")
-		(sheetfile "IngestibleCapsule-Board.kicad_sch")
+		(sheetfile "IngestibleCapsule-Board_larger_vias.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
