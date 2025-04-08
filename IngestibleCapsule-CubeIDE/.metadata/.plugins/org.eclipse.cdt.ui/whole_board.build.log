@@ -1,0 +1,10 @@
+02:50:20 **** Incremental Build of configuration Debug for project whole_board ****
+make -j16 all 
+arm-none-eabi-size  whole_board.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13292	     12	   1756	  15060	   3ad4	whole_board.elf
+Finished building: default.size.stdout
+ 
+
+02:50:21 Build Finished. 0 errors, 0 warnings. (took 259ms)
+

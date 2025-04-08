@@ -1,0 +1,6 @@
+../Core/Src/ADXL343.c:4:5:ADXL343_Write	2
+../Core/Src/ADXL343.c:16:5:ADXL343_Read	2
+../Core/Src/ADXL343.c:29:5:ADXL343_Init	2
+../Core/Src/ADXL343.c:42:7:ADXL343_ReadX	1
+../Core/Src/ADXL343.c:57:7:ADXL343_ReadY	1
+../Core/Src/ADXL343.c:72:7:ADXL343_ReadZ	1
