@@ -1,0 +1,91 @@
+(footprint "i2c_2_2_trace"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "i2c_2_2_trace"
+		(at 0 -2.5 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "11c392ff-0b7e-4a7e-a2bd-ccb2a4081527")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+			)
+		)
+	)
+	(property "Value" "VAL**"
+		(at 0 2.5 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "86db3549-1974-478e-8cdc-24ba9338ec25")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2ddf1b66-df31-4a48-af4f-1fa3ec10b2b9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4f51f642-0c89-4759-bd80-814747e78217")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(pad "" np_thru_hole circle
+		(at -1.85 7.268253)
+		(size 0.5 0.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "af08204c-a03b-4e77-bf3a-ac36c180774d")
+	)
+	(pad "" np_thru_hole circle
+		(at -0.95 7.43959)
+		(size 0.5 0.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "273a56d3-52fc-4fdf-8793-66beff4b2b81")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 7.5)
+		(size 0.5 0.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "82de9e4d-df18-4378-bf10-78cca2535118")
+	)
+	(pad "" np_thru_hole circle
+		(at 0.95 7.43959)
+		(size 0.5 0.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "7c1cf8dc-32e7-4ef1-8637-484d9f840d84")
+	)
+	(pad "" np_thru_hole circle
+		(at 1.85 7.268253)
+		(size 0.5 0.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "d9749123-5e02-4b7c-885b-97eee7e48d6e")
+	)
+	(embedded_fonts no)
+)
