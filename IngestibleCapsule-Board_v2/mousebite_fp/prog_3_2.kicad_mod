@@ -1,0 +1,12 @@
+(module prog_3_2 (layer F.Cu)
+	(fp_text reference prog_3_2 (at 0 -2.5) (layer F.SilkS) hide
+		(effects (font (size 1 1) (thickness 0.2)))
+	)
+	(fp_text value VAL** (at 0 2.5) (layer F.SilkS) hide
+		(effects (font (size 1 1) (thickness 0.2)))
+	)
+	(pad "" np_thru_hole circle (at -1.6500000000000001 7.57231800705702) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+	(pad "" np_thru_hole circle (at -0.55 7.730459236035075) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+	(pad "" np_thru_hole circle (at 0.55 7.730459236035075) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+	(pad "" np_thru_hole circle (at 1.6500000000000001 7.57231800705702) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+)

@@ -187,7 +187,9 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.2,
+        0.25
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -499,7 +501,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "SPI_Gerbers_vias/",
+      "plot": "Boardv2_Gerbs",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "IngestibleCapsule-Board_v2.step",

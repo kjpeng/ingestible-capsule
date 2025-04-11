@@ -1,13 +1,13 @@
-(footprint "i2c_2_2_trace"
+(footprint "pwr_4_2"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(property "Reference" "i2c_2_2_trace"
+	(property "Reference" "pwr_4_2"
 		(at 0 -2.5 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "11c392ff-0b7e-4a7e-a2bd-ccb2a4081527")
+		(uuid "252212ef-7f1c-4627-bdba-83926d649a65")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 		(at 0 2.5 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "86db3549-1974-478e-8cdc-24ba9338ec25")
+		(uuid "ec137a92-2ccf-4aee-9cce-1d92eb4bd578")
 		(effects
 			(font
 				(size 1 1)
@@ -31,7 +31,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "2ddf1b66-df31-4a48-af4f-1fa3ec10b2b9")
+		(uuid "8a3b5f6a-e988-479b-8fb0-a25a6fcc5f9e")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "4f51f642-0c89-4759-bd80-814747e78217")
+		(uuid "24ed6e75-de12-4b6a-8bb9-d74f209d2400")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -53,39 +53,32 @@
 	)
 	(attr through_hole)
 	(pad "" np_thru_hole circle
-		(at -1.85 7.268253)
+		(at -1.475 7.608342)
 		(size 0.5 0.5)
 		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
-		(uuid "af08204c-a03b-4e77-bf3a-ac36c180774d")
+		(uuid "3dc9da05-648b-4329-be20-2968e4749ccb")
 	)
 	(pad "" np_thru_hole circle
-		(at -0.95 7.43959)
+		(at -0.575 7.72864)
 		(size 0.5 0.5)
 		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
-		(uuid "273a56d3-52fc-4fdf-8793-66beff4b2b81")
+		(uuid "0e586c7f-f311-474b-b3cb-04cb97df339f")
 	)
 	(pad "" np_thru_hole circle
-		(at 0 7.5)
+		(at 0.575 7.72864)
 		(size 0.5 0.5)
 		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
-		(uuid "82de9e4d-df18-4378-bf10-78cca2535118")
+		(uuid "ab91e342-1e9e-4482-9388-5847441ba0c5")
 	)
 	(pad "" np_thru_hole circle
-		(at 0.95 7.43959)
+		(at 1.475 7.608342)
 		(size 0.5 0.5)
 		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
-		(uuid "7c1cf8dc-32e7-4ef1-8637-484d9f840d84")
-	)
-	(pad "" np_thru_hole circle
-		(at 1.85 7.268253)
-		(size 0.5 0.5)
-		(drill 0.5)
-		(layers "*.Cu" "*.Mask")
-		(uuid "d9749123-5e02-4b7c-885b-97eee7e48d6e")
+		(uuid "c7b68c81-5d92-4d01-9fb1-3995d1dd4633")
 	)
 	(embedded_fonts no)
 )

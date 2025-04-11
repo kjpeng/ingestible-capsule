@@ -1,13 +1,13 @@
-(footprint "prog_3_2_trace"
+(footprint "spi_4_2"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(property "Reference" "prog_3_2_trace"
+	(property "Reference" "spi_4_2"
 		(at 0 -2.5 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "d0fcbbe4-fbe5-4af2-81e9-939d9e091ad3")
+		(uuid "8f9e8886-3ad8-4005-bffb-aef553a7719d")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 		(at 0 2.5 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "460cf14a-5261-4324-aa7b-6174ffa36762")
+		(uuid "3ceb5ac0-d4ab-4264-a883-2a961bc3f6ae")
 		(effects
 			(font
 				(size 1 1)
@@ -31,7 +31,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "f37caa65-9581-4732-a517-19285938becf")
+		(uuid "4c62b85b-f03d-4f7e-9f2d-43abd93042ad")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "88e0b309-cb72-4cb9-a4db-07efdd700b71")
+		(uuid "ec5ed838-8cde-4a68-8fa1-fe2233a3ee55")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -53,32 +53,39 @@
 	)
 	(attr through_hole)
 	(pad "" np_thru_hole circle
-		(at -1.425 7.363381)
+		(at -2.2 7.431184)
 		(size 0.5 0.5)
 		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
-		(uuid "e9d902d2-bb8d-4794-a226-20161bb406a7")
+		(uuid "08a1ec69-cbef-4625-9357-1474f90e14fc")
 	)
 	(pad "" np_thru_hole circle
-		(at -0.475 7.484943)
+		(at -1.1 7.671538)
 		(size 0.5 0.5)
 		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
-		(uuid "1fdf489f-7c90-40b4-8513-7a6f26b7a1c9")
+		(uuid "23c3051a-618d-440c-9157-afb0d5d74efe")
 	)
 	(pad "" np_thru_hole circle
-		(at 0.475 7.484943)
+		(at 0 7.75)
 		(size 0.5 0.5)
 		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
-		(uuid "893e3126-a33d-4018-b5e3-211422927037")
+		(uuid "aed29e34-23f3-4a92-afe1-dc8e9fd7486c")
 	)
 	(pad "" np_thru_hole circle
-		(at 1.425 7.363381)
+		(at 1.1 7.671538)
 		(size 0.5 0.5)
 		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
-		(uuid "e817ba8a-7ed9-45fd-a7e0-697df44e417a")
+		(uuid "e9ae39e3-e482-48f8-aa31-81c2a97b3123")
+	)
+	(pad "" np_thru_hole circle
+		(at 2.2 7.431184)
+		(size 0.5 0.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "3b2f3a6b-c4cc-44bb-9f6f-7da953723bd3")
 	)
 	(embedded_fonts no)
 )

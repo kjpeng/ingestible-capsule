@@ -1,0 +1,13 @@
+(module i2c_2_2 (layer F.Cu)
+	(fp_text reference i2c_2_2 (at 0 -2.5) (layer F.SilkS) hide
+		(effects (font (size 1 1) (thickness 0.2)))
+	)
+	(fp_text value VAL** (at 0 2.5) (layer F.SilkS) hide
+		(effects (font (size 1 1) (thickness 0.2)))
+	)
+	(pad "" np_thru_hole circle (at -2.0 7.487489565935968) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+	(pad "" np_thru_hole circle (at -1.1 7.671538307275797) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+	(pad "" np_thru_hole circle (at 0.0 7.75) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+	(pad "" np_thru_hole circle (at 1.1 7.671538307275797) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+	(pad "" np_thru_hole circle (at 2.0 7.487489565935968) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask))
+)

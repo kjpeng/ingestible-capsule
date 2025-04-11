@@ -2606,7 +2606,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1dc6fe1c-fbda-4561-9c38-9f5afa7acf1b")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR054"
 			(at 87.63 96.52 0)
 			(effects
 				(font
@@ -2656,7 +2656,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "#PWR078")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -2672,7 +2672,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20e9a374-b298-47f3-9114-17ff8e8ffa76")
-		(property "Reference" "C15"
+		(property "Reference" "C21"
 			(at 142.24 142.2462 0)
 			(effects
 				(font
@@ -2726,7 +2726,7 @@
 		(instances
 			(project ""
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "C15")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -2812,7 +2812,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30d0881a-1c0b-4655-a173-a5062ea754b7")
-		(property "Reference" "#PWR089"
+		(property "Reference" "#PWR066"
 			(at 190.5 87.63 0)
 			(effects
 				(font
@@ -2862,7 +2862,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "#PWR089")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -2948,7 +2948,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f39293f-7c0f-4fb9-9034-101c41ca7649")
-		(property "Reference" "C16"
+		(property "Reference" "C22"
 			(at 152.4 142.2462 0)
 			(effects
 				(font
@@ -3002,7 +3002,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "C16")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -3018,7 +3018,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "424e2058-7c93-451f-818a-e7d7e8db37ae")
-		(property "Reference" "#PWR085"
+		(property "Reference" "#PWR062"
 			(at 149.86 154.94 0)
 			(effects
 				(font
@@ -3068,7 +3068,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "#PWR085")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -3154,7 +3154,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46087f5f-6bca-4391-82bc-2aa91040b4e7")
-		(property "Reference" "#PWR086"
+		(property "Reference" "#PWR063"
 			(at 157.48 151.13 0)
 			(effects
 				(font
@@ -3204,7 +3204,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "#PWR086")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -3288,7 +3288,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5471612a-20a1-4cc2-b67e-3cd39a31fb11")
-		(property "Reference" "C19"
+		(property "Reference" "C18"
 			(at 97.79 83.8262 0)
 			(effects
 				(font
@@ -3342,7 +3342,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "C19")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -3426,7 +3426,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f29d039-66a4-4325-80d1-74f7dbe192ad")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR056"
 			(at 100.33 80.01 0)
 			(effects
 				(font
@@ -3476,7 +3476,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "#PWR077")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -3492,7 +3492,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65c6a684-19e4-43fa-a661-3f177d404c5f")
-		(property "Reference" "C23"
+		(property "Reference" "C24"
 			(at 170.18 138.4362 0)
 			(effects
 				(font
@@ -3546,7 +3546,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "C23")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -3562,7 +3562,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6dea26db-ade8-4ac1-9958-7b4c2eb3f202")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR059"
 			(at 116.84 135.89 0)
 			(effects
 				(font
@@ -3612,7 +3612,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "#PWR082")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -3628,7 +3628,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "71848813-3480-4f23-9497-b450a3db7d72")
-		(property "Reference" "#PWR088"
+		(property "Reference" "#PWR065"
 			(at 170.18 123.19 0)
 			(effects
 				(font
@@ -3678,7 +3678,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "#PWR088")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -3764,7 +3764,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "76d9df94-9808-4294-ae9f-9ee2747273e8")
-		(property "Reference" "#PWR083"
+		(property "Reference" "#PWR060"
 			(at 132.08 143.51 0)
 			(effects
 				(font
@@ -3814,7 +3814,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "#PWR083")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -3830,7 +3830,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78388166-67f0-4c1d-973e-5336bee6248c")
-		(property "Reference" "C21"
+		(property "Reference" "C20"
 			(at 106.68 116.8462 0)
 			(effects
 				(font
@@ -3884,7 +3884,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "C21")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -3900,7 +3900,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f7c9fa3-d5bf-462c-beff-4eaf072dafe6")
-		(property "Reference" "C20"
+		(property "Reference" "C17"
 			(at 93.98 109.2262 0)
 			(effects
 				(font
@@ -3954,7 +3954,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "C20")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -3970,7 +3970,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "900d5ad6-8535-4c40-95f9-888784cdf3ee")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR058"
 			(at 104.14 128.27 0)
 			(effects
 				(font
@@ -4020,7 +4020,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "#PWR081")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -4036,7 +4036,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9108abb5-4f39-4e7c-93d4-4403bb94a2d7")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR053"
 			(at 71.12 115.57 0)
 			(effects
 				(font
@@ -4086,7 +4086,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "#PWR076")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -4102,7 +4102,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9464b272-9ab5-4564-8a6c-82155ae79ae5")
-		(property "Reference" "#PWR084"
+		(property "Reference" "#PWR061"
 			(at 139.7 154.94 0)
 			(effects
 				(font
@@ -4152,7 +4152,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "#PWR084")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -4168,7 +4168,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9491f443-0074-46d8-879a-fd81629077f4")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR055"
 			(at 91.44 120.65 0)
 			(effects
 				(font
@@ -4218,7 +4218,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "#PWR080")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -4251,7 +4251,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.4mm_EP2.7x2.7mm"
+		(property "Footprint" "kjp_fplib:SR1010"
 			(at 139.7 92.71 0)
 			(effects
 				(font
@@ -4384,7 +4384,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9b62b2b-3b3e-4a9a-a45b-b8b58e9c772c")
-		(property "Reference" "C17"
+		(property "Reference" "C19"
 			(at 106.68 91.4462 0)
 			(effects
 				(font
@@ -4438,7 +4438,7 @@
 		(instances
 			(project ""
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "C17")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -4454,7 +4454,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca1d9579-d9ad-4548-a06e-d6a457bc57f2")
-		(property "Reference" "C18"
+		(property "Reference" "C16"
 			(at 90.17 83.8262 0)
 			(effects
 				(font
@@ -4508,7 +4508,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "C18")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -4524,7 +4524,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5c10250-df0b-4165-aad7-b23cec3d6022")
-		(property "Reference" "#PWR087"
+		(property "Reference" "#PWR064"
 			(at 167.64 151.13 0)
 			(effects
 				(font
@@ -4574,7 +4574,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "#PWR087")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -4590,7 +4590,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec7cb14f-dbd3-4540-bae7-20a837e42da4")
-		(property "Reference" "C22"
+		(property "Reference" "C23"
 			(at 160.02 138.4362 0)
 			(effects
 				(font
@@ -4644,7 +4644,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "C22")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -4728,9 +4728,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ff10f66f-ae30-4df9-b086-50db481d2c99")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR057"
 			(at 104.14 102.87 0)
 			(effects
 				(font
@@ -4740,7 +4739,7 @@
 			)
 		)
 		(property "Value" "SPI_GND"
-			(at 104.14 101.6 0)
+			(at 104.14 99.822 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4780,7 +4779,7 @@
 		(instances
 			(project "IngestibleCapsule-Board"
 				(path "/c8668ce4-f244-4f6b-86d5-e45f0742e988/1d174589-7caa-4bd8-831f-7b0bb033a2b0"
-					(reference "#PWR079")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
