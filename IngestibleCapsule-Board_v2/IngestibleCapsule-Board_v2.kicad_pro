@@ -501,7 +501,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Boardv2_Gerbs",
+      "plot": "Boardv3_Gerbs",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "IngestibleCapsule-Board_v2.step",
